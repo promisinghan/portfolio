@@ -3,6 +3,10 @@
 
 ![Stormtroopocat?????](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
+
+![whateverimage???](https://scatterjar.com/wp-content/uploads/2016/06/www.scatterjar.com-1323-700x467.jpg "Raspberry jam??")
+
+
 ## README description: THIS IS FUN ACTIVITY.
 
 ### Table of Contents
