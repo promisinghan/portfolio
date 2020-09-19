@@ -1,10 +1,9 @@
 # README Title: Let's do markdown!
-![Minion](https://octodex.github.com/images/minion.png "the minion")
+![whateverimage???](https://scatterjar.com/wp-content/uploads/2016/06/www.scatterjar.com-1323-700x467.jpg "Raspberry jam??")
 
 ![Stormtroopocat?????](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-
-![whateverimage???](https://scatterjar.com/wp-content/uploads/2016/06/www.scatterjar.com-1323-700x467.jpg "Raspberry jam??")
+![Minion](https://octodex.github.com/images/minion.png "the minion")
 
 
 ## README description: THIS IS FUN ACTIVITY.
