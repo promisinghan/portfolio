@@ -1,6 +1,5 @@
-# README Title!!!
-![Minion]
-(https://octodex.github.com/images/minion.png)
+# README Title: Let's do markdown!
+![Minion](https://octodex.github.com/images/minion.png "the minion")
 
 ![Stormtroopocat?????](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
