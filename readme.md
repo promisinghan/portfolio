@@ -1,3 +1,19 @@
+# README Title!!!
+![Minion]
+(https://octodex.github.com/images/minion.png)
+
+![Stormtroopocat?????](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+## README description: THIS IS FUN ACTIVITY.
+
+### Table of Contents
+- 1. jUst some texts...
+(http://nodeca.github.io/pica/demo/ "title text!")
+   
+- 2. more texts..
+
+
+
 who are you? what is your background?
 I am Minyeong, and I have Master's in Data Analytics and Visualization.
 what are your career goals?
